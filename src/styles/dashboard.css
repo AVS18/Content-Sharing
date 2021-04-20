@@ -1,0 +1,19 @@
+.start{
+    background-color: #282c34;
+    min-height: 100vh;
+    color: white;
+    padding: 100px;
+}
+.rest{
+    background-color: #282c34;
+}
+.dash-left{
+    float: left;
+    font-size: large;
+    text-align: left;
+}
+
+.dash-right{
+    float: right;
+    text-align: right;
+}
